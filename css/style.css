@@ -6,3 +6,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: hsl(210, 36, 96);
+    color: hsl(209, 61, 16);
+    line-height: 1.5;
+    font-size: 0.875rem;
+}
