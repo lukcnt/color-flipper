@@ -1,5 +1,6 @@
 # Color Flipper
- An application that changes the color of the site .
+
+An application that changes the background color of the site by clicking on a button.
 
 ## Test the application
 
