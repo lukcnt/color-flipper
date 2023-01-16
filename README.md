@@ -6,4 +6,4 @@ An application that changes the background color of the site by clicking on a bu
 
 You can test the application by going to the site below:
 
-(lukcnt.io/color-flipper)[https://lukcnt.github.io/color-flipper/]
+[lukcnt.io/color-flipper](https://lukcnt.github.io/color-flipper/)
